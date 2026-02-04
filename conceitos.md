@@ -1,5 +1,6 @@
 POO - Definições 
 - Classe ( concreta ou abstrata)
+(Classe é como um conjunto de coisas, como um carro, dentro de carros há varios modelos)
 - Objeto 
 ( Objeto é a caracteristica de algum elemento tipo uma garrafa, e do que ela é feita, o material.)
 - Instância
