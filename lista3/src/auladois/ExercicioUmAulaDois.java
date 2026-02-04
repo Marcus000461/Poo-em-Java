@@ -19,7 +19,8 @@ public class ExercicioUmAulaDois {
             numeros.add(valor);
             
         }
-        
+        sc.close();
+
         max = Collections.max(numeros);
         min = Collections.min(numeros);
         
@@ -27,7 +28,7 @@ public class ExercicioUmAulaDois {
             soma += j;
 
         }
-        med = soma/qtd;
+        med = (double)soma/qtd;
         System.out.println("\nValor máximo: " + max
                         + "\nValor mínimo : " + min
                         + "\nMédia : " + med
